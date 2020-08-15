@@ -1,6 +1,6 @@
 # Project-Gelassenheit
 
-![](./src/Gelassenheit.jpeg)
+![](Gelassenheit.jpeg)
 
 Heres the purpose...
 

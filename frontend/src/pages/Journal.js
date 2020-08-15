@@ -32,6 +32,16 @@ const Journal = () => {
               beginning? If we want to be able to measure a developers strengths
               why not have one centralized location?
             </p>
+            <p>
+              One project where a more experienced developer could more easily
+              gauge someones foundation and offer help. One location where a
+              potential employee can show themselves. One location that replaces
+              a resume and offers a robust, colorful, creative solution.
+            </p>
+            <p>
+              That's what Project Gelassenheit is in a nutshell. This isn't even
+              in the right section. That's ok! There aren't any rules here!
+            </p>
           </li>
         </ul>
       </Container>

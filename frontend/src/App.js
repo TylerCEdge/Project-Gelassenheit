@@ -9,7 +9,6 @@ import './App.css';
 
 import About from './pages/About';
 import Home from './pages/Home';
-import Users from './pages/Users';
 import Learn from './pages/Learn';
 import Journal from './pages/Journal';
 import Navbar from './components/Navbar';
@@ -25,9 +24,6 @@ const App = () => {
           </Route>
           <Route path='/learn' exact>
             <Learn />
-          </Route>
-          <Route path='/users'>
-            <Users />
           </Route>
           <Route path='/journal' exact>
             <Journal />

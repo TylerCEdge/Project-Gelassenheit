@@ -8,6 +8,14 @@ const Journal = () => {
     <React.Fragment>
       <Container>
         <hr />
+        <ul className='journal'>
+          <li className='journal-entry'>
+            <p>
+              I won't be barred from learning. Here there are no limits. Here I
+              get to express myself without judgement!!!
+            </p>
+          </li>
+        </ul>
       </Container>
     </React.Fragment>
   );

@@ -9,7 +9,7 @@ const Journal = () => {
       <Container>
         <hr />
         <ul className='journal'>
-          <li>
+          <li className='journal-entry'>
             <p>
               I think every newcomer to development should create something
               similar to this. I think they deserve to have an outlet. I just

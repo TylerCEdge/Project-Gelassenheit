@@ -18,4 +18,8 @@ I want a place to let my creativity run free and a place where its ok to render 
 
 Project Gelassenheit is an evolving projection of myself.
 
+This is where I get to rock my unique personality.  This is where 2 + 2 = 5.  I'm in charge here and I'm going to have fun with it.
+
+This is where I divide by 0.
+
 Welcome to Project Gelassenheit!!!

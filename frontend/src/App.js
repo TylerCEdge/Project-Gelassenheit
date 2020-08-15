@@ -11,6 +11,7 @@ import About from './pages/About';
 import Home from './pages/Home';
 import Learn from './pages/Learn';
 import Journal from './pages/Journal';
+import Accomplishments from './pages/Accomplishments';
 import Navbar from './components/Navbar';
 
 const App = () => {
@@ -24,6 +25,9 @@ const App = () => {
           </Route>
           <Route path='/learn' exact>
             <Learn />
+          </Route>
+          <Route path='/accomplishments' exact>
+            <Accomplishments />
           </Route>
           <Route path='/journal' exact>
             <Journal />

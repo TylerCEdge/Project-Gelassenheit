@@ -12,6 +12,7 @@ const Journal = () => {
       <AbsoluteCenter>
         <ul className='journal color-mod' id='custom-container'>
           <li className='journal-entry'>
+            <h6>August 15th 2020</h6>
             <p>
               I won't be barred from learning. Here there are no limits. Here I
               get to express myself without judgement!!!
@@ -19,6 +20,7 @@ const Journal = () => {
           </li>
           <hr />
           <li className='journal-entry'>
+            <h6>August 16th 2020</h6>
             <p>
               I didn't feel so great about myself this morning. It feels like
               maybe I'm not doing the right thing.

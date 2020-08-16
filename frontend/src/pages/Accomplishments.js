@@ -9,13 +9,14 @@ const Accomplishments = () => {
   return (
     <React.Fragment>
       <AbsoluteCenter>
-        <hr />
         <ul className='journal color-mod' id='custom-container'>
           <li className='journal-entry'>
+            <h6>August 15th 2020</h6>
             <p>I made this by myself!!!</p>
           </li>
           <hr />
           <li className='journal-entry'>
+            <h6>August 16th 2020</h6>
             <p>I styled this by myself!!!</p>
           </li>
         </ul>

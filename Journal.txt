@@ -1,3 +1,0 @@
-I want to learn:
-
-    How to take each of these bootstrap components and scaffold them to where I can dynamically render the data. 8/15/20

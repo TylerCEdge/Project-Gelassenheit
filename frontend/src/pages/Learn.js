@@ -11,7 +11,6 @@ const Learn = () => {
       <div id='custom-container'>
         <Eiffel />
       </div>
-      <br />
       <div id='custom-container'>
         <Card />
       </div>

@@ -1,5 +1,7 @@
 import React from 'react';
 
+import '../../css/CustomContainer.css';
+
 import Searchbar from '../../components/Searchbar';
 import Jumbotron from '../../components/Jumbotron';
 import Table from '../../components/Table';

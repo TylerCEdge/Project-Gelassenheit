@@ -1,9 +1,11 @@
 import React from 'react';
 
+import '../css/CustomContainer.css';
+
 const Table = () => {
   return (
     <div>
-      <table class='table'>
+      <table class='table color-mod'>
         <thead>
           <tr>
             <th scope='col'>#</th>

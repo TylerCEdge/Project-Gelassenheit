@@ -1,18 +1,20 @@
 import React from 'react';
 
-import Container from '../components/Container';
+import '../css/CustomContainer.css';
+
+import { AbsoluteCenter } from '../components/Positioning/AbsoluteCenter';
 
 const Accomplishments = () => {
   return (
     <React.Fragment>
-      <Container>
+      <AbsoluteCenter>
         <hr />
-        <ul className='journal'>
+        <ul className='journal color-mod' id='custom-container'>
           <li className='journal-entry'>
             <p>I made this by myself!!!</p>
           </li>
         </ul>
-      </Container>
+      </AbsoluteCenter>
     </React.Fragment>
   );
 };

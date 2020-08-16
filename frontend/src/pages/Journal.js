@@ -1,14 +1,15 @@
 import React from 'react';
+
+import '../css/CustomContainer.css';
 import '../css/Journal.css';
 
-import Container from '../components/Container';
+import { AbsoluteCenter } from '../components/Positioning/AbsoluteCenter';
 
 const Journal = () => {
   return (
     <React.Fragment>
-      <Container>
-        <hr />
-        <ul className='journal'>
+      <AbsoluteCenter>
+        <ul className='journal color-mod' id='custom-container'>
           <li className='journal-entry'>
             <p>
               I won't be barred from learning. Here there are no limits. Here I
@@ -16,7 +17,7 @@ const Journal = () => {
             </p>
           </li>
         </ul>
-      </Container>
+      </AbsoluteCenter>
     </React.Fragment>
   );
 };

@@ -45,7 +45,7 @@ The idea is to wire an event handler to the onClick property of the button to ro
 
 The idea here is simply to have the button onClick event modify the card details. I'll let you guess where this pun is going 😁.
 
-# Project Unipolar
+# Project Unipollar
 
 Under ground breaking construction!!!
 

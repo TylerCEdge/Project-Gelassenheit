@@ -10,7 +10,6 @@ import Card from '../../components/Card';
 const HelloWorld = () => {
   return (
     <React.Fragment>
-      <hr />
       <Searchbar />
       <Jumbotron />
       <Table />

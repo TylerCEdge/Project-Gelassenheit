@@ -24,4 +24,6 @@ This is where I get to rock my unique personality. This is where 2 + 2 = 5. I'm 
 
 This is where I divide by 0.
 
+For now the purpose of the main page is to focus on things I want to learn.  All other pages are meant for supplemental outlets.
+
 Welcome to Project Gelassenheit!!!

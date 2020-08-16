@@ -1,6 +1,6 @@
 # Project-Gelassenheit
 
-![](Gelassenheit.jpeg)
+![](projectGelassenheit.jpeg)
 
 Heres the purpose...
 
@@ -18,12 +18,14 @@ A place where things don't have to be anything but what you make them.
 
 I want a place to let my creativity run free and a place where its ok to render something just for the sake of rendering it.
 
+![](eiffel.jpeg)
+
 Project Gelassenheit is an evolving projection of myself.
 
 This is where I get to rock my unique personality. This is where 2 + 2 = 5. I'm in charge here and I'm going to have fun with it.
 
 This is where I divide by 0.
 
-For now the purpose of the main page is to focus on things I want to learn.  All other pages are meant for supplemental outlets.
+For now the purpose of the main page is to focus on things I want to learn. All other pages are meant for supplemental outlets.
 
 Welcome to Project Gelassenheit!!!

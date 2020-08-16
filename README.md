@@ -36,4 +36,22 @@ The first micro project I brewed up.
 
 It takes my sense of humor and creativity to spin off a simplistic approach to learning event handlers, React Hooks, state management...and well...Whatever else I decide to incorporate...because there are no rules here!!!
 
-The idea is to wire an event handler to the onClick property of the button to rotate the image of the eiffel tower 90 degrees to the right.  It will also inject a string held as "text" by the useState hook to inject the word "down" inside of the h5 tag that currently contains the word "Eiffel".  So..."Eiffel Down"...🤣🤣🤣
+The idea is to wire an event handler to the onClick property of the button to rotate the image of the eiffel tower 90 degrees to the right. It will also inject a string held as "text" by the useState hook to inject the word "down" inside of the h5 tag that currently contains the word "Eiffel". So..."Eiffel Down"...🤣🤣🤣
+
+# Accomplishments
+
+![](Accomplishments.jpeg)
+
+It's important to celebrate our wins no matter how big or small. Project Gelassenheit has a place for that!
+
+# Journal
+
+![](Journal.jpeg)
+
+It's important to reflect on our thoughts. It's important to keep our mental health in check. Project Gelassenheit has a place for that!
+
+# About
+
+![](About.jpeg)
+
+I just think the boot camp I took had a "cart before the horse" approach to things. I think if you are going to learn to code then you should learn just that. The raw form. Without worrying about the what if's. Without worrying about whether or not your creation serves a purpose outside of it serving your learning process. Being professional isn't hard. Learning to code is. I think there should be a place that fosters ones creativity. That's what a coder is. It's solving puzzles. It's thinking outside the box. It's the ability to create the impossible. This is my canvas to do just that.

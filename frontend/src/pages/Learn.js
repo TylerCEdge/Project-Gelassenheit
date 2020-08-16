@@ -2,7 +2,7 @@ import React from 'react';
 
 import '../css/CustomContainer.css';
 
-import HelloWorld from '../pages/projects/HelloWorld';
+// import HelloWorld from '../pages/projects/HelloWorld';
 import Eiffel from '../pages/projects/Eiffel';
 
 const Learn = () => {

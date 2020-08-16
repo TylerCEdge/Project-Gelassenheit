@@ -18,8 +18,6 @@ A place where things don't have to be anything but what you make them.
 
 I want a place to let my creativity run free and a place where its ok to render something just for the sake of rendering it.
 
-![](eiffel.jpeg)
-
 Project Gelassenheit is an evolving projection of myself.
 
 This is where I get to rock my unique personality. This is where 2 + 2 = 5. I'm in charge here and I'm going to have fun with it.
@@ -29,3 +27,11 @@ This is where I divide by 0.
 For now the purpose of the main page is to focus on things I want to learn. All other pages are meant for supplemental outlets.
 
 Welcome to Project Gelassenheit!!!
+
+# Project-Eiffel
+
+![](eiffel.jpeg)
+
+The first micro project I brewed up.
+
+It takes my sense of humor and creativity to spin off a simplistic approach to learning event handlers, React Hooks, state management...and well...Whatever else I decide to incorporate...because there are no rules here!!!

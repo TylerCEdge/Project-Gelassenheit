@@ -47,7 +47,7 @@ The idea here is simply to have the button onClick event modify the card details
 
 # Project Unipollar
 
-Under ground breaking construction!!!
+I'm a secret because I can be.  There aren't rules here!!!
 
 # Accomplishments
 

@@ -39,6 +39,12 @@ It takes my sense of humor and creativity to spin off a simplistic approach to l
 
 The idea is to wire an event handler to the onClick property of the button to rotate the image of the eiffel tower 90 degrees to the right. It will also inject a string held as "text" by the useState hook to inject the word "down" inside of the h5 tag that currently contains the word "Eiffel". So..."Eiffel Down"...🤣🤣🤣
 
+# Project-Card
+
+![](eiffel.jpeg)
+
+The idea here is simply to have the button onClick event modify the card details. I'll let you guess where this pun is going 😁.
+
 # Accomplishments
 
 ![](Accomplishments.jpeg)

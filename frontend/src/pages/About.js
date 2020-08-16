@@ -1,6 +1,7 @@
 import React from 'react';
 
 import '../css/CustomContainer.css';
+import '../css/TextStyles.css';
 
 import { AbsoluteCenter } from '../components/Positioning/AbsoluteCenter';
 import Image from '../components/Image';
@@ -11,6 +12,7 @@ const About = () => {
       <AbsoluteCenter>
         <div id='custom-container'>
           <Image />
+          <hr />
           <ul className='journal color-mod'>
             <li className='journal-entry'>
               <p>

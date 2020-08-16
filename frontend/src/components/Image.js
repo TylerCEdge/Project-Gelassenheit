@@ -8,7 +8,7 @@ const Image = () => {
       <div className='text-center'>
         <img
           src={require('../images/tylerUpdated.jpg')}
-          className='rounded img-thumbnail'
+          className='rounded'
           alt='Tyler Edge Headshot'
         />
       </div>

@@ -2,15 +2,20 @@ import React from 'react';
 
 import '../css/CustomContainer.css';
 
-// import HelloWorld from '../pages/projects/HelloWorld';
 import Eiffel from '../pages/projects/Eiffel';
+import Card from '../pages/projects/Card';
 
 const Learn = () => {
   return (
-    <div id='custom-container'>
-      {/* <HelloWorld /> */}
-      <Eiffel />
-    </div>
+    <React.Fragment>
+      <div id='custom-container'>
+        <Eiffel />
+      </div>
+      <br />
+      <div id='custom-container'>
+        <Card />
+      </div>
+    </React.Fragment>
   );
 };
 

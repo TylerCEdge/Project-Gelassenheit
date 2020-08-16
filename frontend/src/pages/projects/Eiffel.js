@@ -39,3 +39,4 @@ const Eiffel = () => {
 export default Eiffel;
 
 // I want the button to rotate the image 90 degrees to the right and add 'DOWN' to the h5 tag.
+// I want isClicked to house a boolean that renders a reset button after the original Click Me button event handler fires off.

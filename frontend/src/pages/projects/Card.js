@@ -1,8 +1,13 @@
 import React from 'react';
 
+import { AbsoluteCenter } from '../../components/Positioning/AbsoluteCenter';
+import '../../css/TextStyles.css';
+
 const Card = () => {
   return (
-    <React.Fragment>
+    <AbsoluteCenter>
+      <h5 className='color-mod'>Card</h5>
+      <hr />
       <div className='card mx-auto' style={{ width: '18rem' }}>
         <img
           src='https://avatarfiles.alphacoders.com/220/thumb-220030.jpg'
@@ -20,8 +25,11 @@ const Card = () => {
           </a>
         </div>
       </div>
-    </React.Fragment>
+      <hr />
+    </AbsoluteCenter>
   );
 };
-
 export default Card;
+
+// Image to change to Kim Kardashian on button click.
+// Card title and text to change to bio info on button click

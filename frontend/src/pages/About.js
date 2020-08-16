@@ -11,8 +11,11 @@ const About = () => {
     <React.Fragment>
       <AbsoluteCenter>
         <div id='custom-container'>
+          <h5 className='color-mod'>Welcome to my Digital Dojo!</h5>
+          <hr />
           <Image />
           <hr />
+          <h5 className='color-mod'>Project Gellassenheit</h5>
           <ul className='journal color-mod'>
             <li className='journal-entry'>
               <p>

@@ -41,7 +41,7 @@ The idea is to wire an event handler to the onClick property of the button to ro
 
 # Project-Card
 
-![](eiffel.jpeg)
+![](Card.jpeg)
 
 The idea here is simply to have the button onClick event modify the card details. I'll let you guess where this pun is going 😁.
 

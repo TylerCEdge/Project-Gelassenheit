@@ -5,7 +5,6 @@ import {
   Redirect,
   Switch,
 } from 'react-router-dom';
-import './App.css';
 
 import Container from './components/Container';
 

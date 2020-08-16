@@ -4,6 +4,11 @@ import { AbsoluteCenter } from '../../components/Positioning/AbsoluteCenter';
 import '../../css/TextStyles.css';
 
 const Card = () => {
+  function onClickHandler() {
+    // I want to hide the cursor here
+    // I want to render an image of Kim Kardashian to replace the Meeseeks image.
+    // I want to render some bio info housed in an array for Kim.
+  }
   return (
     <AbsoluteCenter>
       <h5 className='color-mod'>Card</h5>
@@ -20,9 +25,9 @@ const Card = () => {
             Some quick example text to build on the card title and make up the
             bulk of the card's content.
           </p>
-          <a href='/home' className='btn btn-primary'>
+          <button className='btn btn-primary' onClick={onClickHandler}>
             Go somewhere
-          </a>
+          </button>
         </div>
       </div>
       <hr />

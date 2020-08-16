@@ -35,3 +35,5 @@ Welcome to Project Gelassenheit!!!
 The first micro project I brewed up.
 
 It takes my sense of humor and creativity to spin off a simplistic approach to learning event handlers, React Hooks, state management...and well...Whatever else I decide to incorporate...because there are no rules here!!!
+
+The idea is to wire an event handler to the onClick property of the button to rotate the image of the eiffel tower 90 degrees to the right.  It will also inject a string held as "text" by the useState hook to inject the word "down" inside of the h5 tag that currently contains the word "Eiffel".  So..."Eiffel Down"...🤣🤣🤣

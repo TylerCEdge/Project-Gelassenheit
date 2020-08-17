@@ -1,11 +1,17 @@
 import React from 'react';
 
+import './Mantra.css';
+
 const Mantra = (props) => {
   return (
     <React.Fragment>
-      <h3>The first rule of Project Gelassenheit is: ...</h3>
-      <p>There are no rules</p>
-      <button className='btn-primary'>Dare To Explore</button>
+      <h3 className='text-center' id='line-one'>
+        The first rule of Project Gelassenheit is: ...
+      </h3>
+      <h5 id='line-two'>tHeRe aRe nO Rules ...</h5>
+      <button className='btn-primary' id='explore'>
+        Dare To Explore
+      </button>
     </React.Fragment>
   );
 };

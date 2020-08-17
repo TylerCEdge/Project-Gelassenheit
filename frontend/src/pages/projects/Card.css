@@ -1,0 +1,8 @@
+.card {
+  border: 1px solid black;
+  box-shadow: 0 5px 8px rgba(11, 12, 12, 0.999);
+}
+
+.btn {
+  box-shadow: 0 5px 8px rgba(11, 12, 12, 0.999);
+}

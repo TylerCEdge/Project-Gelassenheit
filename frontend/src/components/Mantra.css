@@ -1,0 +1,29 @@
+/* #line-one {
+  margin: 10px 0 0 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 35em;
+  animation: type 4s steps(60, end);
+}
+
+@keyframes type {
+  from {
+    width: 0;
+  }
+} */
+
+#line-one {
+  transform: rotate(-10deg);
+  margin: 30px;
+  padding: 30px;
+}
+
+#line-two {
+  transform: rotate(10deg);
+  margin: 30px;
+  padding: 30px;
+}
+
+#explore {
+  transform: rotate(180deg);
+}

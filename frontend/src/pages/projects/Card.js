@@ -1,10 +1,17 @@
-import React from 'react';
+import React, { useState } from 'react';
+
+import './Card.css';
 
 import { AbsoluteCenter } from '../../components/Positioning/AbsoluteCenter';
 import '../../css/TextStyles.css';
 
 const Card = () => {
+  const [text, setText] = useState('');
+  const [isClicked, setIsClicked] = useState(false);
+
   function onClickHandler() {
+    var img = document.getElementById('kard');
+    img.style.transform = 'rotate(180deg)';
     // I want to hide the cursor here
     // I want to render an image of Kim Kardashian to replace the Meeseeks image.
     // I want to render some bio info housed in an array for Kim.
@@ -17,6 +24,7 @@ const Card = () => {
         <img
           src='https://avatarfiles.alphacoders.com/220/thumb-220030.jpg'
           className='card-img-top'
+          id='kard'
           alt='Placeholder Image'
         />
         <div className='card-body'>

@@ -26,6 +26,10 @@ const Journal = () => {
               maybe I'm not doing the right thing.
             </p>
           </li>
+          <li className='journal-entry'>
+            <h6>August 18th 2020</h6>
+            <p>I really hate potato chips.</p>
+          </li>
         </ul>
       </AbsoluteCenter>
     </React.Fragment>

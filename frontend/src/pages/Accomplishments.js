@@ -32,6 +32,10 @@ const Accomplishments = () => {
             <h6>August 16th 2020</h6>
             <p>I completed project Eiffel!!!</p>
           </li>
+          <li className='journal-entry'>
+            <h6>August 18th 2020</h6>
+            <p>I completed project Card!!!</p>
+          </li>
         </ul>
       </AbsoluteCenter>
     </React.Fragment>

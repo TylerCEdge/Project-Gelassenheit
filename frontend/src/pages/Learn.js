@@ -4,6 +4,8 @@ import '../css/CustomContainer.css';
 
 import Eiffel from '../pages/projects/Eiffel';
 import Card from '../pages/projects/Card';
+import Unipollar from '../pages/projects/Unipollar';
+import Array from '../pages/projects/Array';
 
 const Learn = () => {
   return (
@@ -13,6 +15,12 @@ const Learn = () => {
       </div>
       <div id='custom-container'>
         <Card />
+      </div>
+      <div id='custom-container'>
+        <Unipollar />
+      </div>
+      <div id='custom-container'>
+        <Array />
       </div>
     </React.Fragment>
   );

@@ -9,7 +9,7 @@ const Mantra = (props) => {
         The first rule of Project Gelassenheit is: ...
       </h3>
       <h5 id='line-two'>tHeRe aRe nO Rules ...</h5>
-      <button className='btn-primary' id='explore'>
+      <button className='btn btn-primary' id='explore'>
         Dare To Explore
       </button>
     </React.Fragment>
